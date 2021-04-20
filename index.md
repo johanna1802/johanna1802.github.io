@@ -3,7 +3,7 @@
 <head>
 <title> Les Cercles Citoyens </title>
 <meta charset="UTF-8">
-<link rel='stylesheet' href='style.css'/>
+<link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 <h1> Les #CerclesCitoyens </h1>
